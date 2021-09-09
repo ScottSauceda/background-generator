@@ -7,7 +7,7 @@
 // Babel <-- dev can use new Javascript features as they come,
 // reads javascript and changes it to a version of javascript that all browsers understsand
 
-
+ var a = 1;
 // ES5 & ES6
 
 /*
